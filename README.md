@@ -2,7 +2,6 @@
 
 <p align="center"><a href="https://gordontze.github.io/gordon/"><img src="https://github.com/GordonTze/GordonTze/blob/main/panda.png" width="400" alt="cool panda"/></a></p>
 
-## My name is Gordon!
 ## Languages & Tools
 <p align="left">
 <a href="https://www.python.org/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt = "python" width="40" height="40"/></a>
